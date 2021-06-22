@@ -9,12 +9,13 @@
   1. Will have 6 practice tests which cover quite all the services and some may come in exam directly
   2. Tests can be taken multiple times
 
-# AWS Study Guide for Solution Architect (Old):
+# AWS Study Guide for Solution Architect (Old): [AWS Study Guide.pdf](https://github.com/KVSRAKESH/AWS-Cloud-Practitioner/files/6696618/AWS.Study.Guide.pdf)
   1. It is old and many servies are outdated, but used it to refer and understand core services
 
 # AWS Whitepapers:
   1. There are many whitepapers and can be found at: https://aws.amazon.com/whitepapers
-  2. AWS Well Architectured Framework:
+
+  2. AWS Well Architectured Framework: [wellarchitected-framework.pdf](https://github.com/KVSRAKESH/AWS-Cloud-Practitioner/files/6696621/wellarchitected-framework.pdf)
      - Got many questions on Well Architectured framework, Most of topics covered in Udemy practice tests
      
   3. AWS Support plans: https://aws.amazon.com/premiumsupport/plans/
