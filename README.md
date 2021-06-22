@@ -15,7 +15,7 @@
 # AWS Whitepapers:
   1. There are many whitepapers and can be found at: https://aws.amazon.com/whitepapers
   2. AWS Well Architectured Framework:
-     a. Got many questions on Well Architectured framework, Most of topics covered in Udemy practice tests
+    - Got many questions on Well Architectured framework, Most of topics covered in Udemy practice tests
      
   3. AWS Support plans: https://aws.amazon.com/premiumsupport/plans/
      Got direct questions from the support plans. Need to memorize though its theoritical
