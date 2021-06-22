@@ -18,7 +18,7 @@
      - Got many questions on Well Architectured framework, Most of topics covered in Udemy practice tests
      
   3. AWS Support plans: https://aws.amazon.com/premiumsupport/plans/
-     Got direct questions from the support plans. Need to memorize though its theoritical
+     - Got direct questions from the support plans. Need to memorize though its theoritical
      
   4. Overview of Amazon Web Services:https://d1.awsstatic.com/whitepapers/aws-overview.pdf
   
@@ -27,7 +27,7 @@
  
  # Other Resources:
   1. Telegram Channel: https://t.me/awsCCP
-    This channel has thouands of questions of Cloud Practitioner level, Very useful for practice and as quizzes
+     - This channel has thouands of questions of Cloud Practitioner level, Very useful for practice and as quizzes
   
   2. Quizlet: https://quizlet.com/subject/
-    This app is a flashcards based quiz platform. We can just search for services and find many questions and quizzes
+     - This app is a flashcards based quiz platform. We can just search for services and find many questions and quizzes
